@@ -26,3 +26,6 @@ Includes EP-0 bugfixes for BSC node.
 
 > [!NOTE]
 > Based on ethnode release v1.2.11 (https://github.com/bnb-chain/bsc/releases/tag/v1.2.11) commit 7a19cd2.
+
+> [!NOTE]
+> Main version EP-1 is available for Ethereum node: https://github.com/olegasivakov/ep-1
