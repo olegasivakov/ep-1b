@@ -1,7 +1,7 @@
 # EP-1b: The mempool search JSON RPC call to BSC node
 
 ## Overview
-Includes EP-0 bugfixes for BSC node.
+Includes EP-0 bugfixes adopted for BSC node.
 
 ## Usage
 
