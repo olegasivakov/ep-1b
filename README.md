@@ -21,10 +21,6 @@ Includes EP-0 bugfixes adopted for BSC node.
 
 ## Notes
 
-## Usage
-
-## Notes
-
 > [!IMPORTANT]
 > Copy the next files to ethnode sourcecode and build ```geth``` as usual:
 > - ```./core/tx_list.go```
