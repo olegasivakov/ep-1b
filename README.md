@@ -1,7 +1,25 @@
 # EP-1b: The mempool search JSON RPC call to BSC node
 
 ## Overview
+
+### Usecases
+
+### Context
+
+### Technical analysis
 Includes EP-0 bugfixes adopted for BSC node.
+
+### DOD
+
+### Estimated time
+
+### How to test
+
+### How to deploy
+
+## Usage
+
+## Notes
 
 ## Usage
 
