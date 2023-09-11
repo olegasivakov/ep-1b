@@ -39,3 +39,9 @@ Includes EP-0 bugfixes adopted for BSC node.
 
 > [!NOTE]
 > Main version EP-1 is available for Ethereum node: https://github.com/olegasivakov/ep-1
+
+## License
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg?maxAge=2592000)](https://raw.githubusercontent.com/apollostack/apollo-ios/master/LICENSE)
+
+MIT
