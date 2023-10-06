@@ -30,12 +30,12 @@ Copy the next files to ethnode sourcecode and build ```geth``` as usual:
 > [!IMPORTANT]
 > Compare files! Only EP-1 and EP-0 rows are needed!
 
+> [!NOTE]
+> See ```// EP-0``` and ```// EP-1``` lines in the sourcecode.
+
 ### 2. RPC call
 
 ## Notes
-
-> [!NOTE]
-> See ```// EP-0``` and ```// EP-1``` lines in the sourcecode.
 
 > [!NOTE]
 > Based on ethnode release v1.2.11 (https://github.com/bnb-chain/bsc/releases/tag/v1.2.11) commit 7a19cd2.
