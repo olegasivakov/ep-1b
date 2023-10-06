@@ -15,7 +15,7 @@ Includes EP-0 bugfixes adopted for BSC node.
 
 ## Usage
 
-### 1. Improve node
+### 1. Improve your node
 
 Copy the next files to ethnode sourcecode and build ```geth``` as usual:
 - ```./core/tx_list.go```
